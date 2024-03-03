@@ -95,7 +95,6 @@ mccabe==0.7.0
 mdurl==0.1.2
 methodtools==0.4.7
 ml-dtypes==0.2.0
-mlxtend==0.23.0
 mongoose==0.0.1
 more-itertools==10.2.0
 moviepy==1.0.3
