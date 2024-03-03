@@ -17,7 +17,7 @@ python code for Download N videos of X singer from “Youtube”  then Convert a
 ## To run code
 python 102116124.py singer_name num_videos duration outputfilename
 
-### app.py
+### index.py
 
 Flask application for above code that mails the audio file to input email id. 
 
