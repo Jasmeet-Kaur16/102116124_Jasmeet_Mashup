@@ -14,8 +14,8 @@ python code for Download N videos of X singer from “Youtube”  then Convert a
   - mashup(singer_name, num_videos, duration, outputfilename): Coordinates the download, conversion, and merging of the videos.
   - main(): Entry point of the script that parses command-line arguments (singer name, number of videos, duration, output filename) and calls mashup() with those arguments.
 
-To run code
-python 102116124.py 
+## To run code
+  - python 102116124.py <singer_name> <num_videos> <duration> <outputfilename>
 
 ### app.py
 
